@@ -1,0 +1,3 @@
+Arrays
+Un array, es como un contenedor de elementos, como un  archivador, donde puedo colocar cosas en sub carpetas si así lo requiero
+estos elementos pueden ser modificados, extraidos, cambiados de lugar o asignar nuevos.
